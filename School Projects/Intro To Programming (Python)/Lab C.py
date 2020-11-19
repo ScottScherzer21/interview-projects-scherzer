@@ -1,5 +1,5 @@
 #Scott Scherzer
-#Lab d
+#Lab c
 
 
 #Get number 1 and convert to int 
